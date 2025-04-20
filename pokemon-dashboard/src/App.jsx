@@ -1,7 +1,7 @@
 import PokemonList from './components/PokemonList';
 import PokemonDetails from './components/PokemonDetails';
 import Analytics from './components/Analytics';
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 
 function App() {
 
